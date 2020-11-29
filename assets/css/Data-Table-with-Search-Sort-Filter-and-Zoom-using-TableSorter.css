@@ -1,0 +1,24 @@
+#ipi-table > thead > tr, #ipi-table > thead > tr > td {
+  font-size: .9em;
+  font-weight: 400;
+  background: #51596a;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+#ipi-table > tbody > tr > td {
+  max-height: 200px;
+  vertical-align: middle!important;
+}
+
+.containerslides {
+  position: absolute;
+  bottom: 2px;
+  /*right: 5px;*/
+  padding-bottom: 2px;
+}
+
+.align-items-xl-end.footer-basic {
+  bottom: 0;
+}
+
